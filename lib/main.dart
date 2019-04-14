@@ -9,7 +9,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'BoardVille Wallet App',
+      title: 'BoardVille Wallet',
       theme: theme,
       home: Home(),
     );
