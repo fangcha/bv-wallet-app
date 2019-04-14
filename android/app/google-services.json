@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825725561073",
+    "firebase_url": "https://boardville-e6586.firebaseio.com",
+    "project_id": "boardville-e6586",
+    "storage_bucket": "boardville-e6586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825725561073:android:eec698bbea531179",
+        "android_client_info": {
+          "package_name": "app.boardville.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825725561073-m5lmuuc86chm18844974hm4tu9utardf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyQBoNM3Tbe_YbVK53m1ra2-rSPqQhL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825725561073-m5lmuuc86chm18844974hm4tu9utardf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
